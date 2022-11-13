@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248721683811",
+    "project_id": "flash-chat-ab554",
+    "storage_bucket": "flash-chat-ab554.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248721683811:android:cc641fb7ab7f88c62b0f56",
+        "android_client_info": {
+          "package_name": "com.mariuskiwi.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248721683811-aa1m6n3uj25se54mc4k41l8hafi79efe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSAvPQeZGQ0ICnRmAatuYrNZcluz4ixA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248721683811-aa1m6n3uj25se54mc4k41l8hafi79efe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
